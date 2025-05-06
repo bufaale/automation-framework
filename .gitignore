@@ -1,0 +1,22 @@
+# Build
+/build/
+/out/
+/target/
+
+# Gradle
+/.gradle/
+gradle-app.setting
+
+# IntelliJ
+.idea/
+*.iml
+
+# Serenity
+/.serenity/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
